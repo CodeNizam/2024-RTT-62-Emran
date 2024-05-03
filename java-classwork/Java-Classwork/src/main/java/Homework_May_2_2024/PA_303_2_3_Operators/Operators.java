@@ -1,4 +1,4 @@
-package Homework_May_2_2024.PA_303_2_3;
+package Homework_May_2_2024.PA_303_2_3_Operators;
 
 public class Operators {
     public static void main(String[] args) {
