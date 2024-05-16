@@ -1,4 +1,4 @@
-package May_10_Homework.AnotherGLAB_303_11_3;
+package May_10_Homework.GLAB_303_11_3;
 
 public class Book {
     private  int number;

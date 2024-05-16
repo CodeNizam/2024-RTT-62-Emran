@@ -1,7 +1,6 @@
-package May_10_Homework.AnotherGLAB_303_11_3;
+package May_10_Homework.GLAB_303_11_3;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 
 public class AddDataToArrayList {
     public  ArrayList<Book> bookdetails() {

@@ -1,4 +1,4 @@
-package May_10_Homework;
+package May_10_Homework.GLAB_303_11_1;
 
 public class DemoClass {
 
