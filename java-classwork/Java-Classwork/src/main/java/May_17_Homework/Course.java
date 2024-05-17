@@ -7,7 +7,7 @@ public class Course {
         this.course_name = name;
         this.instructor_name = instructor;
     }
-    public course () {
+    public Course () {
     }
     public String getCode() {
         return code;
